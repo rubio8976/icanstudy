@@ -30,6 +30,7 @@ Translate short-term oriented behaviors/emotions into long-term beneficial ones.
   - 行业
   - 人文
   - 财富
+  - More Blender
 ##### 休闲 4~8h
 - 电影
 - 游戏
